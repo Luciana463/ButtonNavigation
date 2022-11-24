@@ -1,4 +1,4 @@
-package com.example.buttomnavigation
+package com.example.toolbarmenu
 
 import org.junit.Test
 
